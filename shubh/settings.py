@@ -40,8 +40,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'friend.apps.FriendConfig',
-    'crispy_forms',
-    'registration',
 ]
 
 MIDDLEWARE = [
@@ -136,12 +134,3 @@ STATICFILES_DIRS = (
     ('images', os.path.join(STATIC_ROOT, 'images')),
 
 )
-
-EMAIL_HOST= 'smtp.gmail.com'
-EMAIL_PORT= 587
-EMAIL_USE_TLS=  True
-
-EMAIL_HOST_USER= 'shubhambera081@gmail.com'
-EMAIL_HOST_PASSWORD= 'shubham#12345'
-
-LOGIN_REDIRECT_URL= "/"
