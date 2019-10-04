@@ -21,7 +21,6 @@ from django.urls import path, include
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('friend/', include('friend.urls')),
-    path('accounts/', include('registration.backends.default.urls')),
 ]
 
 if settings.DEBUG:
