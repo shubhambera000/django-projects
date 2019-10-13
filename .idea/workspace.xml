@@ -2,9 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa0b3d92-a52f-4a64-97cb-db01b30fdcda" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/shubh/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/custom_form_field.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/friend/auth.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/friend/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/home_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/jai.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/activation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/activation_complete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/activation_email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/activation_email_subject.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/password_change_done.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/password_change_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/password_reset_complete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/password_reset_confirm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/password_reset_done.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/registration_closed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/registration_complete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/registration_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Dell.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Dell.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shubh.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shubh.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/friend/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/friend/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/friend/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/static/images/img-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/static/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/friend/static/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/templates/custom_form_field.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/templates/friend/auth.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/templates/friend/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/templates/jai.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/templates/registration/activation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/templates/registration/activation_complete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/templates/registration/activation_email.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/templates/registration/activation_email_subject.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/friend/templates/registration/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/templates/registration/logout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/templates/registration/password_change_done.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/templates/registration/password_change_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/templates/registration/password_reset_complete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/templates/registration/password_reset_confirm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/templates/registration/password_reset_done.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/templates/registration/registration_closed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/templates/registration/registration_complete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/templates/registration/registration_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friend/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/friend/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/friend/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/friend/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shubh/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/shubh/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shubh/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/shubh/urls.py" afterDir="false" />
@@ -19,44 +66,55 @@
     <session id="974208911">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="2" />
           <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.25" value="4" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="1" />
-          <entry key="html" value="7" />
+          <entry key="css" value="13" />
+          <entry key="html" value="48" />
           <entry key="ico" value="1" />
-          <entry key="png" value="1" />
-          <entry key="py" value="25" />
+          <entry key="jpg" value="3" />
+          <entry key="js" value="3" />
+          <entry key="map" value="2" />
+          <entry key="png" value="2" />
+          <entry key="py" value="56" />
+          <entry key="rnc" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="1" />
-          <entry key="HTML" value="7" />
-          <entry key="Image" value="2" />
-          <entry key="Python" value="25" />
+          <entry key="CSS" value="13" />
+          <entry key="HTML" value="48" />
+          <entry key="Image" value="6" />
+          <entry key="JavaScript" value="3" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="56" />
+          <entry key="RNG Compact" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="466" />
-          <entry key="py" value="1978" />
+          <entry key="css" value="16" />
+          <entry key="html" value="5486" />
+          <entry key="py" value="5623" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="466" />
-          <entry key="Python" value="1978" />
+          <entry key="CSS" value="16" />
+          <entry key="HTML" value="5486" />
+          <entry key="Python" value="5623" />
         </counts>
       </usages-collector>
     </session>
@@ -64,51 +122,70 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/friend/admin.py">
+        <entry file="file://$PROJECT_DIR$/shubh/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state>
+              <folding>
+                <element signature="e#306#315#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/friend/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/shubh/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/friend/templates/index.html">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="17">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/friend/apps.py">
+        <entry file="file://$PROJECT_DIR$/friend/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="18" />
+            <state relative-caret-position="17">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+                <marker date="1570959936280" expanded="true" signature="381:1180" ph="..." />
+                <marker date="1570959936280" expanded="true" signature="1897:2140" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shubh/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/friend/tests.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/friend/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -117,40 +194,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/friend/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <marker date="1569991747910" expanded="true" signature="87:92" ph="..." />
-                <marker date="1569991747910" expanded="true" signature="264:269" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/friend/forms.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/friend/templates/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/friend/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+            <state relative-caret-position="538">
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
               <folding>
-                <element signature="e#0#35#0" expanded="true" />
+                <element signature="e#0#55#0" expanded="true" />
+                <marker date="1570959936497" expanded="true" signature="717:722" ph="..." />
+                <marker date="1570959936497" expanded="true" signature="1294:1340" ph="..." />
+                <marker date="1570959936497" expanded="true" signature="1365:1370" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/success.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/jai.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -160,12 +231,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -174,14 +246,43 @@
         <option value="$PROJECT_DIR$/friend/models.py" />
         <option value="$PROJECT_DIR$/friend/admin.py" />
         <option value="$PROJECT_DIR$/friend/templates/friend/index.html" />
-        <option value="$PROJECT_DIR$/friend/forms.py" />
-        <option value="$PROJECT_DIR$/friend/urls.py" />
         <option value="$PROJECT_DIR$/friend/templates/index2.html" />
+        <option value="$PROJECT_DIR$/friend/templates/register.html" />
+        <option value="$PROJECT_DIR$/friend/templates/success.html" />
+        <option value="$PROJECT_DIR$/friend/templates/custom_form_field.html" />
         <option value="$PROJECT_DIR$/friend/templates/index.html" />
+        <option value="$PROJECT_DIR$/friend/templates/jai.html" />
+        <option value="$PROJECT_DIR$/friend/templates/registration/activation.html" />
+        <option value="$PROJECT_DIR$/friend/templates/registration/activation_complete.html" />
+        <option value="$PROJECT_DIR$/friend/templates/registration/activation_email.html" />
+        <option value="$PROJECT_DIR$/friend/templates/registration/activation_email_subject.html" />
         <option value="$PROJECT_DIR$/friend/templates/registration/login.html" />
-        <option value="$PROJECT_DIR$/shubh/settings.py" />
-        <option value="$PROJECT_DIR$/shubh/urls.py" />
+        <option value="$PROJECT_DIR$/friend/templates/registration/logout.html" />
+        <option value="$PROJECT_DIR$/friend/templates/registration/password_change_done.html" />
+        <option value="$PROJECT_DIR$/friend/templates/registration/password_change_form.html" />
+        <option value="$PROJECT_DIR$/friend/templates/registration/password_reset_complete.html" />
+        <option value="$PROJECT_DIR$/friend/templates/registration/password_reset_confirm.html" />
+        <option value="$PROJECT_DIR$/friend/templates/registration/password_reset_done.html" />
+        <option value="$PROJECT_DIR$/friend/templates/registration/registration_closed.html" />
+        <option value="$PROJECT_DIR$/friend/templates/registration/registration_complete.html" />
+        <option value="$PROJECT_DIR$/friend/templates/registration/registration_form.html" />
+        <option value="$PROJECT_DIR$/friend/templates/friend/auth.html" />
+        <option value="$PROJECT_DIR$/friend/templates/friend/home.html" />
         <option value="$PROJECT_DIR$/friend/templates/base.html" />
+        <option value="$PROJECT_DIR$/shubh/settings.py" />
+        <option value="$PROJECT_DIR$/friend/templates/registration/home_page.html" />
+        <option value="$PROJECT_DIR$/friend/templates/home_page.html" />
+        <option value="$PROJECT_DIR$/shubh/urls.py" />
+        <option value="$PROJECT_DIR$/friend/static/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/friend/static/css/owl.theme.default.min.css" />
+        <option value="$PROJECT_DIR$/templates/home_page.html" />
+        <option value="$PROJECT_DIR$/shubh/views.py" />
+        <option value="$PROJECT_DIR$/templates/custom_form_field.html" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/templates/jai.html" />
+        <option value="$PROJECT_DIR$/friend/urls.py" />
+        <option value="$PROJECT_DIR$/friend/forms.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/friend/views.py" />
       </list>
     </option>
@@ -198,7 +299,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,29 +315,30 @@
               <item name="shubh" type="b2602c69:ProjectViewProjectNode" />
               <item name="shubh" type="462c0819:PsiDirectoryNode" />
               <item name="friend" type="462c0819:PsiDirectoryNode" />
-              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shubh" type="b2602c69:ProjectViewProjectNode" />
               <item name="shubh" type="462c0819:PsiDirectoryNode" />
-              <item name="friend" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shubh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shubh" type="462c0819:PsiDirectoryNode" />
-              <item name="shubh" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\shubh" />
+      <recent name="C:\Users\Dell\shubh\friend\templates" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -286,67 +387,273 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32903227" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/friend/templates/friend/index.html" />
-    <entry file="file://$PROJECT_DIR$/friend/images/icons/favicon.ico" />
-    <entry file="file://$PROJECT_DIR$/friend/images/img-01.png" />
-    <entry file="file://$PROJECT_DIR$/friend/templates/static/css/main.css" />
-    <entry file="file://$PROJECT_DIR$/shubh/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/friend/templates/registration/login.html" />
-    <entry file="file://$PROJECT_DIR$/shubh/urls.py">
+    <entry file="file://$PROJECT_DIR$/templates/registration/activation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        <state relative-caret-position="119">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shubh/settings.py">
+    <entry file="file://$PROJECT_DIR$/templates/registration/activation_complete.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="136" selection-start-line="136" selection-end-line="136" />
+        <state relative-caret-position="153">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shubh/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/templates/registration/activation_email.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="90" selection-start-line="10" selection-start-column="90" selection-end-line="10" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/activation_email_subject.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" selection-start-column="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/logout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/password_change_done.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/password_change_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/password_reset_complete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/password_reset_confirm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/password_reset_done.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/registration_closed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/registration_complete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/registration_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/friend/auth.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="83" column="14" selection-start-line="83" selection-start-column="14" selection-end-line="83" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/friend/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/django/views/generic/edit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/friend/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/friend/__init__.py">
+    <entry file="file://$PROJECT_DIR$/shubh/wsgi.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/friend/apps.py">
+    <entry file="file://$PROJECT_DIR$/friend/static/images/dog_6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/friend/static/images/dog_1 .jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/friend/static/images/img-01 .png" />
+    <entry file="file://$PROJECT_DIR$/friend/static/images/dog_2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/friend/static/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="18" />
+        <state relative-caret-position="561">
+          <caret line="207" column="1" lean-forward="true" selection-start-line="207" selection-start-column="1" selection-end-line="207" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/friend/tests.py">
+    <entry file="file://$PROJECT_DIR$/friend/static/css/bootstrap-datepicker.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="561">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/friend/urls.py">
+    <entry file="file://$PROJECT_DIR$/friend/static/css/bootstrap.min.css.map">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/friend/static/css/jquery.fancybox.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/friend/static/css/jquery-ui.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="561">
+          <caret line="653" column="1" lean-forward="true" selection-start-line="653" selection-start-column="1" selection-end-line="653" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/friend/static/css/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="198" selection-start-line="198" selection-end-line="198" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/friend/static/css/mediaelementplayer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="705" lean-forward="true" selection-start-line="705" selection-end-line="705" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/friend/static/css/owl.carousel.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/friend/static/css/owl.theme.default.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="175" selection-start-line="8" selection-start-column="175" selection-end-line="8" selection-end-column="175" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/friend/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3519">
+          <caret line="207" column="14" selection-start-line="207" selection-start-column="14" selection-end-line="207" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/friend/static/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="5" column="2161" lean-forward="true" selection-start-line="5" selection-start-column="2161" selection-end-line="5" selection-end-column="2161" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/friend/static/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="70" column="32" lean-forward="true" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/friend/static/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="2764" selection-start-line="5" selection-start-column="2764" selection-end-line="5" selection-end-column="2764" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/friend/static/js/jquery-3.3.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="980" selection-start-line="1" selection-start-column="980" selection-end-line="1" selection-end-column="980" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/custom_form_field.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="389" column="14" lean-forward="true" selection-start-line="389" selection-start-column="14" selection-end-line="389" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="68" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
         </state>
       </provider>
     </entry>
@@ -354,37 +661,91 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <marker date="1569991747910" expanded="true" signature="87:92" ph="..." />
-            <marker date="1569991747910" expanded="true" signature="264:269" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/friend/forms.py">
+    <entry file="file://$PROJECT_DIR$/friend/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/friend/templates/base.html">
+    <entry file="file://$PROJECT_DIR$/shubh/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/friend/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/friend/templates/index.html">
+    <entry file="file://$PROJECT_DIR$/shubh/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#306#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shubh/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/friend/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/friend/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+            <marker date="1570959936280" expanded="true" signature="381:1180" ph="..." />
+            <marker date="1570959936280" expanded="true" signature="1897:2140" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/jai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/friend/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+            <marker date="1570959936497" expanded="true" signature="717:722" ph="..." />
+            <marker date="1570959936497" expanded="true" signature="1294:1340" ph="..." />
+            <marker date="1570959936497" expanded="true" signature="1365:1370" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>

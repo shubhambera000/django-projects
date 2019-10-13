@@ -41,7 +41,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'friend.apps.FriendConfig',
     'crispy_forms',
-    'registration',
 ]
 
 MIDDLEWARE = [
@@ -124,6 +123,7 @@ USE_TZ = True
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
+CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 STATIC_URL = '/static/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
@@ -137,11 +137,3 @@ STATICFILES_DIRS = (
 
 )
 
-EMAIL_HOST= 'smtp.gmail.com'
-EMAIL_PORT= 587
-EMAIL_USE_TLS=  True
-
-EMAIL_HOST_USER= 'shubhambera081@gmail.com'
-EMAIL_HOST_PASSWORD= 'shubham#12345'
-
-LOGIN_REDIRECT_URL= "/"
