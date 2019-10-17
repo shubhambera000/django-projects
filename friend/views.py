@@ -49,8 +49,8 @@ def login_view(request):
     next = request.GET.get('next')
     form = AuthenticationForm(request.POST or None)
     if form.is_valid():
-        email = form.cleaned_data.get('email')
-        password = form.cleaned_data.get('password')
+        email = request.POST['email']
+        password = request.POST['password']
         user = authenticate(email=email, password=password)
         login(request, user)
         if next:
