@@ -13,7 +13,7 @@ STATES = (
 )
 
 
-class UserLoginForm(forms.ModelForm):
+class UserLoginForm(forms.Form):
     email = forms.CharField(widget=forms.TextInput(attrs={'placeholder': 'Email'}))
     password = forms.CharField(widget=forms.PasswordInput())
     Submit('submit', 'Sign in')
