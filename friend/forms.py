@@ -16,7 +16,6 @@ STATES = (
 class UserLoginForm(forms.Form):
     email = forms.CharField(widget=forms.TextInput(attrs={'placeholder': 'Email'}))
     password = forms.CharField(widget=forms.PasswordInput())
-    Submit('submit', 'Sign in')
 
     def clean(self, *args, **kwargs):
         email = self.cleaned_data.get('email')
